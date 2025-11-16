@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "name": "SaladaDeFrutas",
+  "version": "1.0.3",
+  "updateUrl": "https://yu4ng.github.io/Yuncher/SaladaDeFrutas/",
+  "files": [
+    {
+      "path": "mods",
+      "type": "directory"
+    },
+    {
+      "path": "confg",
+      "type": "directory"
+    },
+    {
+      "path": "emotes",
+      "type": "directory"
+    },
+    {
+      "path": "resourcepacks",
+      "type": "directory"
+    },
+    {
+      "path": "resources",
+      "type": "directory"
+    },
+    {
+      "path": "shaderpacks",
+      "type": "directory"
+    }
+  ]
+}
