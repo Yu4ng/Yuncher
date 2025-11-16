@@ -1,0 +1,37 @@
+{
+  "version": "1.0.3",
+  "update": {
+    "files": [
+      {
+        "path": "mods",
+        "type": "directory",
+        "force": true
+      },
+      {
+        "path": "confg",
+        "type": "directory",
+        "force": true
+      },
+      {
+        "path": "emotes",
+        "type": "directory",
+        "force": true
+      },
+      {
+        "path": "resourcepacks",
+        "type": "directory",
+        "force": true
+      },
+      {
+        "path": "resources",
+        "type": "directory",
+        "force": true
+      },
+      {
+        "path": "shaderpacks",
+        "type": "directory",
+        "force": true
+      }
+    ]
+  }
+}
